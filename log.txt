@@ -1,0 +1,68 @@
+Breaked on loop on оплата_праці on excpetion 
+ 		 [Errno 2] No such file or directory: 'оплата_праці_hrefs.txt'
+Breaked on loop on оплата_праці on excpetion 
+ 		 [Errno 2] No such file or directory: 'оплата_праці_hrefs.txt'
+Breaked on loop on Облік робочого часу on excpetion 
+ 		 Message: timeout: Timed out receiving message from renderer: 299.996
+  (Session info: chrome=88.0.4324.104)
+
+Breaked on loop on Вихідні дні on excpetion 
+ 		 Message: timeout: Timed out receiving message from renderer: 300.000
+  (Session info: chrome=88.0.4324.104)
+
+Breaked on loop on Робочий час on excpetion 
+ 		 Message: timeout: Timed out receiving message from renderer: 300.000
+  (Session info: chrome=88.0.4324.104)
+
+Breaked on loop on Неповний робочий час on excpetion 
+ 		 Message: timeout: Timed out receiving message from renderer: 300.000
+  (Session info: chrome=88.0.4324.104)
+
+Breaked on loop on Накази on excpetion 
+ 		 Message: timeout: Timed out receiving message from renderer: 300.000
+  (Session info: chrome=88.0.4324.104)
+
+Breaked on loop on ФОП on excpetion 
+ 		 Message: timeout: Timed out receiving message from renderer: 300.000
+  (Session info: chrome=88.0.4324.104)
+
+Breaked on loop on Трудовий договір on excpetion 
+ 		 Message: timeout: Timed out receiving message from renderer: 300.000
+  (Session info: chrome=88.0.4324.104)
+
+Breaked on loop on Положення про оплату праці on excpetion 
+ 		 Message: timeout: Timed out receiving message from renderer: 300.000
+  (Session info: chrome=88.0.4324.104)
+
+Breaked on loop on Правила внутрішнього трудового розпорядку on excpetion 
+ 		 Message: timeout: Timed out receiving message from renderer: 300.000
+  (Session info: chrome=88.0.4324.104)
+
+Breaked on loop on Графік відпусток on excpetion 
+ 		 Message: timeout: Timed out receiving message from renderer: 300.000
+  (Session info: chrome=88.0.4324.104)
+
+Breaked on loop on Порушення on excpetion 
+ 		 Message: timeout: Timed out receiving message from renderer: 300.000
+  (Session info: chrome=88.0.4324.104)
+
+Breaked on loop on Штрафи on excpetion 
+ 		 Message: timeout: Timed out receiving message from renderer: 300.000
+  (Session info: chrome=88.0.4324.104)
+
+Breaked on loop on Колективний договір on excpetion 
+ 		 Message: timeout: Timed out receiving message from renderer: 300.000
+  (Session info: chrome=88.0.4324.104)
+
+Breaked on loop on Карантин on excpetion 
+ 		 Message: timeout: Timed out receiving message from renderer: 300.000
+  (Session info: chrome=88.0.4324.104)
+
+Breaked on loop on Дистанційна робота on excpetion 
+ 		 Message: timeout: Timed out receiving message from renderer: 300.000
+  (Session info: chrome=88.0.4324.104)
+
+Breaked on loop on оплата праці on excpetion 
+ 		 [Errno 2] No such file or directory: 'оплата праці_hrefs.txt'
+Breaked on loop on оплата праці on excpetion 
+ 		 [Errno 2] No such file or directory: 'оплата праці_hrefs.txt'
